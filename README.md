@@ -13,7 +13,7 @@ https://jonmircha.com/react#aprende-m%C3%A1s
     <li> Material😎 </li>
     <li> React Router 🖥</li>
     <li> Formik 📝</li>
-    <li> Redux ⚡︎</li>
+    <li> Redux ⚡︎</li>w
     <li>Typescript 🎲</li>
 </ul>
 
